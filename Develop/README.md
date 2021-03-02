@@ -1,27 +1,27 @@
 
     # Title
-    d
+    Readme Generator
   
     ## Description
-    d
+    Creating a program that asks you a list of questions then makes a readme
   
     ## Contents
-    d
+    Readme
   
     ## Installation
     undefined
   
     ## Usage
-    d
+    type node index
   
     ## User License
-    [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+    [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   
     ## Contributing
-    d
+    Made whole thing
   
     ## Tests
-    d
+    answer questions
   
     ## Github User
     undefined
